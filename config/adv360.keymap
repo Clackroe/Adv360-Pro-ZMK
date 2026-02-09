@@ -49,7 +49,7 @@
             bindings = <
 &kp F1  &kp F2     &kp F3         &kp F4            &kp F5             &kp F6       &tog 3                                      &mo 8   &kp F7     &kp F8                &kp F9                 &kp F10     &kp F11            &kp F12
 &trans  &kp GRAVE  &kp LESS_THAN  &kp GREATER_THAN  &kp KP_MINUS       &kp PIPE     &none                                       &none   &kp CARET  &kp LEFT_BRACE        &kp RIGHT_BRACE        &kp DOLLAR  &pointer_deref     &trans
-&trans  &kp EXCL   &kp STAR       &kp SLASH         &kp KP_EQUAL       &kp AMPS     &none   &trans  &trans      &trans  &trans  &none   &kp HASH   &kp LEFT_PARENTHESIS  &kp RIGHT_PARENTHESIS  &kp SEMI    &kp DOUBLE_QUOTES  &trans
+&trans  &kp EXCL   &kp STAR       &kp SLASH         &kp EQUAL          &kp AMPS     &none   &trans  &trans      &trans  &trans  &none   &kp HASH   &kp LEFT_PARENTHESIS  &kp RIGHT_PARENTHESIS  &kp SEMI    &kp DOUBLE_QUOTES  &trans
 &mo 2   &kp TILDE  &kp PLUS       &kp LEFT_BRACKET  &kp RIGHT_BRACKET  &kp PERCENT                  &trans      &trans                  &kp AT     &kp COLON             &kp UNDER              &kp PERIOD  &kp QUESTION       &trans
 &trans  &trans     &trans         &trans            &trans                          &trans  &trans  &trans      &trans  &trans  &trans             &trans                &trans                 &trans      &trans             &trans
             >;
